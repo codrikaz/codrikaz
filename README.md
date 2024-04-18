@@ -11,6 +11,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codrikaz&theme=onedark&no-bg=true)](https://github.com/codrikaz/github-profile-trophy)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codrikaz&layout=compact&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codrikaz&layout=compact&show_icons=true&theme=chartreuse-dark)](https://github.com/codrikaz/github-readme-stats)
 
 
